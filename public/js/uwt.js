@@ -2,5 +2,5 @@
 },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
 a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
 // Insert Twitter Pixel ID and Standard Event data below
-twq('init','o6ome');
+twq('init','o6tor');
 twq('track','PageView');
